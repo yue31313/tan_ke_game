@@ -1,0 +1,9 @@
+package com.zhangda.danji.tank;
+
+import com.fogo.spot.BootBroadCastReceiver;
+
+public class MyRecever extends BootBroadCastReceiver{
+
+	
+	
+}
